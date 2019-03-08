@@ -1,0 +1,7 @@
+# Compiled source #
+###################
+*.sqlite3
+
+# Don't track content of these folders #
+########################################
+.idea/
